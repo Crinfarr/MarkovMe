@@ -13,7 +13,8 @@
   "author": "Crinfarr",
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "node-markov": "^1.0.1"
+    "discord.js": "^12.4.0",
+    "node-markov-generator": "^0.4.3"
   },
   "devDependencies": {
     "eslint": "^7.11.0"
